@@ -75,10 +75,10 @@ public class Compare {
                             System.out.println(fileArr[i].getName()+"\t\t"+ "different");
                         }
                     }
-//                    else
-//                    {
-//                        System.out.println(fileArr[i].getName()+"\t\t"+"identical");
-//                    }
+                    else
+                    {
+                        System.out.println(fileArr[i].getName()+"\t\t"+"identical");
+                    }
                 }
             }
             else
